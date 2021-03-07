@@ -9,7 +9,7 @@ namespace sb_task_6
     {
         static int N = 50;
         static int k;
-        static string path = @"..\..\..\TextFile1.txt";
+        static string path = @"TextFile1.txt";
         static string fileName = "groups";
 
         static void Main(string[] args)
